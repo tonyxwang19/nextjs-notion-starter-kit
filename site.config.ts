@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Tony-Wang-s-Blog-1d854776ed8a80389d53e7fe7d1be27d?pvs=4',
+  rootNotionPageId: 'Tony-Wang-s-Blog-1d854776ed8a80b9b5d7d9e0f0989e6c?pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Tony Wang's Blog",
-  domain: 'https://www.notion.so/Tony-Wang-s-Blog-1d854776ed8a80389d53e7fe7d1be27d?pvs=4',
+  domain: 'https://www.notion.so/Tony-Wang-s-Blog-1d854776ed8a80b9b5d7d9e0f0989e6c?pvs=4',
   author: '"Tony" Xining Wang',
 
   // open graph metadata (optional)
